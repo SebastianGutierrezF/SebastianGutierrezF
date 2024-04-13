@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on an AI supported outfit creator app<br>👯 Looking for internship oppotunities<br>🌱 Learning metrics and proyect documentation atm<br>⚡ I am certified Kundalini Yoga Teacher and Tabla player
+🔭 Currently building Alexa Skills <br>👯 Looking for internship oppotunities<br>🌱 Learning metrics and proyect documentation atm<br>⚡ I am certified Kundalini Yoga Teacher and Tabla player
 
 
 # 💻 Tech Stack:
