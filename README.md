@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building Alexa Skills <br>👯 Looking for internship oppotunities<br>🌱 Learning metrics and proyect documentation atm<br>⚡ I am certified Kundalini Yoga Teacher and Tabla player
+⚛️ Helping the mission to improve the lives of people with diabetes at Insulet 🌱 <br> Building Expo apps on the side 💪 <br> ⚡ I am certified Kundalini Yoga Teacher and Tabla player
 
 
 # 💻 Tech Stack:
