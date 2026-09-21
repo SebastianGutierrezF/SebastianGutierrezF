@@ -28,10 +28,4 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=SebastianGutierrezF&theme=swift&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SebastianGutierrezF&theme=swift&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianGutierrezF&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
