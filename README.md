@@ -1,6 +1,6 @@
 # About Me:
 
-⚙️ Associate Functional Analyst at **Insulet**, on the Salesforce Engineering team
+⚙️ Functional Analyst at **Insulet**, on the Salesforce Engineering team
 
 🎓 Pursuing a Master's in Applied Artificial Intelligence at Tecnológico de Monterrey
 
